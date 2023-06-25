@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Test readme: Finished updating me [here](https://github.com/clobberos/.github/blob/main/profile/README.md)
 <!--
 
 **Here are some ideas to get you started:**
